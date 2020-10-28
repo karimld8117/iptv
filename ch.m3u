@@ -71,6 +71,9 @@ https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1 logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa" tvg-name="BFM TV",BFM TV
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS FR
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/CNews.m3u8
+
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 
@@ -103,6 +106,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 
 #EXTINF:-1 logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="Int. Amรฉrica" tvg-name="Cheddar USA",Cheddar USA EN
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="FR" tvg-name="Euronews FR",Euronews FR
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/EuroNews.m3u8
 
 #EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="Euronews EN",Euronews EN
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
