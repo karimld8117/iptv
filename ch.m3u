@@ -207,6 +207,29 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://i.imgur.com/BjO1ABv.jpg" tvg-country="US" tvg-url="" group-title="",CBS NEWS Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://ky-iptv.com:25461/live/oscar/1234/181951.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3252
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://185.232.53.5:2086/gennaro/gennaro/3252?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://kuchini.site:8080/iptvhometv/0451/83891?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://185.232.53.5:2086/gennaro/gennaro/64112?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX NEWS CHANNEL 
+http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Euronews
+http://83.164.148.178:8888/play/a00r?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Euronews
+http://rv.therevenge.co:80/477846155654/477846155654/78979?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Euronews
+http://176.10.117.3:5000/play/a02s?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Euronews
+http://main.volcanictv.com:25461/test1/test1/21781
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="WEA.US" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
