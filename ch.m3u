@@ -3,22 +3,22 @@
 #EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined", TF1 
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français", France 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.servimg.com/u/f62/18/47/07/97/france12.png" group-title="Français", France 2
 http://178.132.3.162:88/france2/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3e3688_01fd7f4ab40345ad89cd591e3c08935b~mv2.jpg" group-title="Français",France 3
 http://178.132.3.162:88/france3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
 http://178.132.3.162:88/france4/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.toutelatele.com/IMG/moton14.jpg" group-title="Français",France 5
 http://178.132.3.162:88/france5/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.1min30.com/wp-content/uploads/2018/10/M6-embleme.jpg" group-title="Français",M6
 http://178.132.3.162:88/M6/index.m3u8?token=test
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Undefined", ARTE 
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png" group-title="Français",W9
@@ -27,7 +27,7 @@ http://178.132.3.162:88/W9/index.m3u8?token=test
 #EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Undefined", TFX 
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Undefined", TMC 
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png" group-title="Undefined", TMC 
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Français",TF1 Séries Films
@@ -55,8 +55,14 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Undefined", Gulli
 https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/bp1Qp0d.png" tvg-country="BE" tvg-url="" group-title="News",LN24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-country="BE" tvg-url="" group-title="",Bel RTL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/1024px-LN24_-_Logo.png" tvg-country="BE" tvg-url="" group-title="News",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",Noovo (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -110,7 +116,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined", FRANCE INFOS FR
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 
-#EXTINF:-1 logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa" tvg-name="BFM TV",BFM TV FR
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/1280px-BFM_TV.svg.png" group-title="Int. Europa" tvg-name="BFM TV",BFM TV FR
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS FR
@@ -167,7 +173,7 @@ https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN USA EN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/a-rare-voice-for-balance-goes-silent-at-fox-news/@@images/rectangular_image/page-header?v=1571186920.39" group-title="News",FOX NEWS CHANNEL 
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 
@@ -212,10 +218,10 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="News",SKY NEWS UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK",BBC NEWS UJ
+#EXTINF:-1 logo="https://www.aucso.org/wp-content/uploads/2018/03/BBC-News-LOGO.jpg" group-title="UK",BBC NEWS 
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Undefined",BBC 1 Scotland,UK | BBC 1 SCOTLAND
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/1280px-BBC_One_HD.svg.png" group-title="Undefined",BBC 1 Scotland,UK | BBC 1 SCOTLAND
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/zbuuLmm.png" group-title="UK",ITV
@@ -296,8 +302,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-country="BE" tvg-url="" group-title="",Bel RTL
-https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" logo="https://i.imgur.com/2OJjojo.png" tvg-country="NL" tvg-url="" group-title="",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/YjKqWru.png" tvg-country="BE" tvg-url="" group-title="",BX1
@@ -305,8 +309,7 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/cThInij.png" tvg-country="FR" tvg-url="" group-title="",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-url="" group-title="",RTL TVI BE
-https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/FRP03WJ.jpg" tvg-country="FR" tvg-url="" group-title="",TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
