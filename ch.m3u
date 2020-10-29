@@ -69,6 +69,15 @@ https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
+EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV MONTREAL CA
+http://main.volcanictv.com:25461/test1/test1/21202?checkedby:hlscat.com
+
+#EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV 2 CA
+http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://www.quebecor.com/documents/20143/67801/Logo+TVA.jpg/e6abf4e9-9e15-d9e1-dd76-56c575ddaf71?t=1501008539900" tvg-country="CA" tvg-url="" group-title="", TVA MONTREAL
+http://ce2.coolmyvip.club:8880/kg12m2n063/zxcas345676/59197?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 ES
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
@@ -164,6 +173,10 @@ http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-country="FR" logo="https://www.livenewsmag.com/wp-content/uploads/2016/10/ICi-RDI-News-TV-2.jpg" group-title="INFOS",ICI RDI CA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
+#EXTINF:0 tvg-country="FR" logo="https://casketoutlet.ca/img/cms/Nouveau-TVA.png" group-title="INFOS",LCN CA
+http://kuchini.site:8080/iptvhometv/0451/173116?checkedby:hlscat.com
+
+
 #EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="News",ESPN EN
 https://gma2.blab.email/espnu.m3u8
 
@@ -173,11 +186,11 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="Int. Amรฉrica" tvg-name="Cheddar USA",Cheddar EN
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
-
-
 #EXTINF:-1 logo="https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200" group-title="Int. Amรฉrica" tvg-name="Bloomberg EU USA",Bloomberg TV EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/47wqLpY.png" group-title="Undefined", CNBC 
+http://kuchini.site:8080/iptvhometv/0451/9221?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/47wqLpY.png" group-title="Undefined", CNBC EUROPE
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:hlscat.com
@@ -191,12 +204,17 @@ http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
 http://main.volcanictv.com:25461/test1/test1/21245?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+http://kuchini.site:8080/iptvhometv/0451/14961?checkedby:hlscat.com
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="Undefined",NBC News Now,US | NBC NEWS NOW
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://i.imgur.com/kuZyiqg.jpg" tvg-country="US" tvg-url="" group-title="",CBSN EN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+
 
 #EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC NEWS USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
