@@ -74,6 +74,12 @@ http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com&c
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
+#EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="" group-title="Entertainment", TV5 Quebec
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93929?checkedby:hlscat.com
+
+EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="" group-title="Entertainment", RADIO CANADA 
+http://ky-iptv.com:25461/live/oscar/1234/182206.m3u8?checkedby:hlscat.com
+
 EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV MONTREAL CA
 http://main.volcanictv.com:25461/test1/test1/21202?checkedby:hlscat.com
 
@@ -81,7 +87,7 @@ http://main.volcanictv.com:25461/test1/test1/21202?checkedby:hlscat.com
 http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://www.quebecor.com/documents/20143/67801/Logo+TVA.jpg/e6abf4e9-9e15-d9e1-dd76-56c575ddaf71?t=1501008539900" tvg-country="CA" tvg-url="" group-title="", TVA MONTREAL
-http://ce2.coolmyvip.club:8880/kg12m2n063/zxcas345676/59197?checkedby:hlscat.com
+http://ce2.coolmyvip.club:8880/kg12m2n063/zxcas345676/2993?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 ES
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
@@ -237,9 +243,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC USA
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="" tvg-language="English" logo="https://i.pinimg.com/originals/65/e3/93/65e39340d26d9aeeb61234c6b17ff612.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS USA
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="" tvg-language="English" logo="https://cdn.freebiesupply.com/images/large/2x/cbs-logo-png-transparent.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS USA
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" tvg-country="US" tvg-url="" group-title="News",CBS NEWS Boston
@@ -362,11 +367,10 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/MediasetExtra.it.png" group-title="Italia",Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" logo="https://www.unotv.com/uploads/2020/06/logo-unotv.png" tvg-country="MX" tvg-url="" group-title="", UNO TV Mexico
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" logo="https://i.imgur.com/KiKtVbb.png" tvg-country="MX" tvg-url="" group-title="",Milenio TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" logo="https://i.imgur.com/KiKtVbb.png" tvg-country="MX" tvg-url="" group-title="",Milenio TV MX
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
