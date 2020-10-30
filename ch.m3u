@@ -21,6 +21,9 @@ http://178.132.3.162:88/M6/index.m3u8?token=test
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/cThInij.png" tvg-country="FR" tvg-url="" group-title="",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
@@ -65,6 +68,8 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
 #EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
 
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -122,6 +127,12 @@ https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="324.TV" logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Cataluรฑa" tvg-name="324",324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
+http://kuchini.site:8080/iptvhometv/0451/28853?checkedby:hlscat.com
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
+http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined", FRANCE INFOS FR
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
@@ -203,10 +214,14 @@ http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
 http://main.volcanictv.com:25461/test1/test1/21245?checkedby:hlscat.com
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
 http://kuchini.site:8080/iptvhometv/0451/14961?checkedby:hlscat.com
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+http://flow2.biz:25461/800104/800104/11829?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+http://main.volcanictv.com:25461/test1/test1/21779?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+http://185.232.53.5:2086/arellano/kgtL965n2Y/64090?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="Undefined",NBC News Now,US | NBC NEWS NOW
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
@@ -219,10 +234,10 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC NEWS USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-language="English" logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC USA
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC USA
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS USA
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="" tvg-language="English" logo="https://i.pinimg.com/originals/65/e3/93/65e39340d26d9aeeb61234c6b17ff612.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS USA
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
 
 
