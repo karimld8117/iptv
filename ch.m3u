@@ -91,7 +91,7 @@ https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="" group-title="Entertainment", TV5 Quebec
+#EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1200px-TV5_%28logo%29.svg.png" group-title="Entertainment", TV5 Quebec
 http://185.232.53.5:2086/arellano/kgtL965n2Y/93929?checkedby:hlscat.com
 
 EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="" group-title="Entertainment", RADIO CANADA 
@@ -129,8 +129,6 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-id="13.TV" logo="https://logovectorseek.com/wp-content/uploads/2019/08/neox-tv-logo-vector.png" group-title="Generalistas" tvg-name="", NEOX HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="13.TV" logo="https://www.verahoratv.com/imagenes/nova.jpg" group-title="Generalistas" tvg-name="", NOVA HD
 https://livestartover.atresmedia.com/geonova/master.m3u8
 
@@ -152,7 +150,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
-#EXTINF:-1 logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucรญa" tvg-name="Canal Sur 1 Andalucรญa",Canal Sur 1 Andalucia
+#EXTINF:-1 logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucรญa" tvg-name="Canal Sur 1 Andalucรญa",CanalSur1 Andalucia
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.TV" logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluรฑa" tvg-name="TV3",TV3
@@ -195,7 +193,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
 
-#EXTINF:0 tvg-country="FR" logo="https://www.lalettre.pro/photo/art/grande/45038143-36550786.jpg" group-title="Business",BFM BUSINESS FR
+#EXTINF:0 tvg-country="FR" logo="https://www.lalettre.pro/photo/art/grande/45038143-36550786.jpg" group-title="Business",BFM BUSINESS 
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8
 
 
@@ -212,10 +210,10 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w88036
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_1108_av-p.m3u8
 
 
-#EXTINF:0 tvg-country="FR" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK_KSZCwAtA-J8i131m178U8VFeYSteYdUYg&usqp=CAU" group-title="Business",RT France
+#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT France
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
-#EXTINF:0 tvg-country="FR" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK_KSZCwAtA-J8i131m178U8VFeYSteYdUYg&usqp=CAU" group-title="Business",RT UK
+#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT UK
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EURONEWS FR
@@ -274,9 +272,15 @@ https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
+#EXTINF:-1 logo="https://www.aucso.org/wp-content/uploads/2018/03/BBC-News-LOGO.jpg" group-title="UK",BBC News UK 
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN US EN
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="News",SKY NEWS UK
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN US
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,12 +305,11 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/64090?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="Undefined",NBC News Now,US | NBC NEWS NOW
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://i.imgur.com/kuZyiqg.jpg" tvg-country="US" tvg-url="" group-title="",CBSN EN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://i.imgur.com/kuZyiqg.jpg" tvg-country="US" tvg-url="" group-title="",CBSN 
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 
-
-#EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC NEWS USA EN
+#EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC NEWS USA 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC USA
@@ -345,7 +348,7 @@ http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",K24 Kenya
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
 
-#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="News",ESPN EN
+#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="News",ESPN 
 https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="",National Geographic
