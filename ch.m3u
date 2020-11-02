@@ -15,6 +15,9 @@ http://178.132.3.162:88/france4/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.toutelatele.com/IMG/moton14.jpg" group-title="Français",France 5
 http://178.132.3.162:88/france5/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.toutelatele.com/IMG/moton14.jpg" group-title="Français",Canal +
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-hd-clair/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.1min30.com/wp-content/uploads/2018/10/M6-embleme.jpg" group-title="Français",M6
 http://178.132.3.162:88/M6/index.m3u8?token=test
 
@@ -54,11 +57,17 @@ http://178.132.3.162:88/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationcanalj/images/header/logo-canalj.png" group-title="Français",Canal J
 http://178.132.3.162:88/CanalJ/video.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Français",TeleToon +
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Undefined", MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Undefined", Gulli
 https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/05/ville-de-paris-vector-logo.png" group-title="Undefined", Live Cam Paris
+https://live.webcam-hd.fr/64connections/Pariscam3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-country="BE" tvg-url="" group-title="",BEL RTL
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
@@ -74,6 +83,11 @@ http://rtbf.l3.freecaster.net/live/rtbf/geo/open/3a932b94370550225f6c82ce2d45c26
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/1024px-LN24_-_Logo.png" tvg-country="BE" tvg-url="" group-title="News",LN24 BE
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="" tvg-country="BE" tvg-url="" group-title="",RTS1
+https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="" tvg-country="BE" tvg-url="" group-title="",RTS2
+https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd
 
 #EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
@@ -203,13 +217,14 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
 
 #EXTINF:0 tvg-country="FR" logo="https://www.lalettre.pro/photo/art/grande/45038143-36550786.jpg" group-title="Business",BFM BUSINESS FR
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8
 
 
 #EXTINF:0 tvg-country="FR" logo="https://i.imgur.com/4buTOS3.png" group-title="INFOS",BFM PARIS 
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/8/87/BFMGrandLille2020.png" group-title="INFOS",BFM Grand Lille TV
 http://str81.creacast.com/grandlilletv/high/playlist.m3u8
@@ -455,6 +470,13 @@ http://5.135.92.133:52841/out/u/440_1.m3u8
 http://5.135.92.133:52841/out/u/452_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="Italia",Rai 3
 http://s3.smashmalta.com:82/live/smash/smash/56.ts
+
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="Italia",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8 
+
+#EXTINF:-1 tvg-logo="https://media.tvblog.it/1/1a5/rete-4-logo.jpg" group-title="Italia",Rete 4
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="Italia",Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-language="Italian" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" tvg-country="IT" tvg-url="" group-title="News",Rai News 24
