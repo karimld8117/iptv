@@ -9,20 +9,14 @@ http://178.132.3.162:88/france2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3e3688_01fd7f4ab40345ad89cd591e3c08935b~mv2.jpg" group-title="Français",France 3
 http://178.132.3.162:88/france3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
-http://178.132.3.162:88/france4/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1280px-Canal%2B.svg.png" group-title="Français",Canal +
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-hd-clair/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.toutelatele.com/IMG/moton14.jpg" group-title="Français",France 5
 http://178.132.3.162:88/france5/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.toutelatele.com/IMG/moton14.jpg" group-title="Français",Canal +
-http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-hd-clair/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.1min30.com/wp-content/uploads/2018/10/M6-embleme.jpg" group-title="Français",M6
 http://178.132.3.162:88/M6/index.m3u8?token=test
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
@@ -51,20 +45,23 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
+http://178.132.3.162:88/france4/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Français",TEVA
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationcanalj/images/header/logo-canalj.png" group-title="Français",Canal J
 http://178.132.3.162:88/CanalJ/video.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Français",TeleToon +
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Français",TeleToon +
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Undefined", MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Undefined", Gulli
 https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Undefined", MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/05/ville-de-paris-vector-logo.png" group-title="Undefined", Live Cam Paris
 https://live.webcam-hd.fr/64connections/Pariscam3.stream/chunklist.m3u8
@@ -84,15 +81,9 @@ http://rtbf.l3.freecaster.net/live/rtbf/geo/open/3a932b94370550225f6c82ce2d45c26
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/1024px-LN24_-_Logo.png" tvg-country="BE" tvg-url="" group-title="News",LN24 BE
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="" tvg-country="BE" tvg-url="" group-title="",RTS1
-https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="" tvg-country="BE" tvg-url="" group-title="",RTS2
-https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd
-
 #EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="",RTL-TVI BE
-http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+
 
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -109,16 +100,9 @@ http://main.volcanictv.com:25461/test1/test1/21202?checkedby:hlscat.com
 #EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV 2 CA
 http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://www.quebecor.com/documents/20143/67801/Logo+TVA.jpg/e6abf4e9-9e15-d9e1-dd76-56c575ddaf71?t=1501008539900" tvg-country="CA" tvg-url="" group-title="", TVA MONTREAL
-http://ce2.coolmyvip.club:8880/kg12m2n063/zxcas345676/2993?checkedby:hlscat.com
-
-
 
 #EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 ES
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 ES
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 
 #EXTINF:-1 tvg-id="La2.TV" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2 ES
@@ -149,9 +133,6 @@ https://livestartover.atresmedia.com/geonova/master.m3u8
 
 #EXTINF:-1 tvg-id="13.TV" logo="https://logovectorseek.com/wp-content/uploads/2019/08/mega-tv-logo-vector.png" group-title="Generalistas" tvg-name="", MEGA
 https://livestartover.atresmedia.com/geomega/master.m3u8
-
-#EXTINF:-1 tvg-id="13.TV" logo="" group-title="Generalistas" tvg-name="", Eventos atresmedia
-https://livestartover.atresmedia.com/eventos37/master.m3u8
 
 
 #EXTINF:-1 tvg-id="FDF.TV" logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
@@ -187,14 +168,6 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
 http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbiw8nEXUHLVgw0DGa4OLNXVa5hRhzpy6E-g&usqp=CAU" group-title="ES" tvg-name="24h",RTP1 Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/master.m3u8
-
-#EXTINF:-1 logo="" group-title="ES" tvg-name="24h",RTP3 Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/master.m3u8
-
-#EXTINF:-1 logo="" group-title="ES" tvg-name="24h",RTP International
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/master.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="ES" tvg-name="24h", TeleSUR ES
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
@@ -202,8 +175,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="ES" tvg-name="24h", TeleSUR EN
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="Italia",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined", FRANCE INFOS FR
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
@@ -247,6 +219,9 @@ http://176.10.117.3:5000/play/a02s?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png" group-title="Deutschland",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="Italia",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",FRANCE 24 EN
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
@@ -258,10 +233,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://casketoutlet.ca/img/cms/Nouveau-TVA.png" group-title="INFOS",LCN CA
 http://kuchini.site:8080/iptvhometv/0451/173116?checkedby:hlscat.com
-
-
-#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="News",ESPN EN
-https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -359,6 +330,9 @@ http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",K24 Kenya
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
+
+#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="News",ESPN EN
+https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
