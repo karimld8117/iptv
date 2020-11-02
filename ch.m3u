@@ -48,6 +48,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
 http://178.132.3.162:88/france4/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="Français",Cherie25
+http://82.64.13.207:2002/bysid/2563
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Français",TEVA
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 
@@ -175,7 +178,8 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="ES" tvg-name="24h", TeleSUR EN
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" tvg-url="" group-title="",TV5 Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined", FRANCE INFOS FR
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
@@ -207,6 +211,13 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w88036
 #EXTINF:0 tvg-country="FR" logo="https://www.lalettre.pro/photo/art/grande/45038143-36550786.jpg" group-title="Business",BFM Grand Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_1108_av-p.m3u8
 
+
+#EXTINF:0 tvg-country="FR" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK_KSZCwAtA-J8i131m178U8VFeYSteYdUYg&usqp=CAU" group-title="Business",RT France
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+
+#EXTINF:0 tvg-country="FR" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK_KSZCwAtA-J8i131m178U8VFeYSteYdUYg&usqp=CAU" group-title="Business",RT UK
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EURONEWS FR
 http://83.164.148.178:8888/play/a00r?checkedby:hlscat.com
 
@@ -218,6 +229,9 @@ http://176.10.117.3:5000/play/a02s?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png" group-title="Deutschland",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://tvheute.at/images/channels/OE24TV--1746762434-01.png" group-title="Deutschland",OE24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="Italia",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
@@ -354,6 +368,9 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="",Fox
+http://5.135.92.133:52841/out/u/373_1.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
@@ -508,6 +525,9 @@ https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg", Gong max
 http://51.254.215.79/appflux/gongmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/243-2435419_nos-netherlands-hd-png-download.png", NOS
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://i1.wp.com/tva30.com/wp-content/uploads/2019/09/Untitled-design.png" group-title="Caraibe" logo="https://i1.wp.com/tva30.com/wp-content/uploads/2019/08/cropped-tvachaine30logo-1.png"  ,TV Haiti 30 
 https://hbiptv.live/tva/30/live/tracks-v1a1/mono.m3u8
