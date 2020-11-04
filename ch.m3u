@@ -45,6 +45,12 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 
+#EXTINF:-1 logo="https://i.pinimg.com/originals/48/3c/fb/483cfb52ca6497d59036a5649b52ff31.png" group-title="Int. Europa" tvg-name="BFM TV",BFM TV
+https://stream-04.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_kA3r5w-TizW68ZJ-v4K71g)/dm/3/xgz4t1/d/live-3.m3u8
+
+#EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS
+https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
 http://178.132.3.162:88/france4/index.m3u8?token=test
 
@@ -189,6 +195,10 @@ https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/87
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 
 
+#EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS
+https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-3.m3u8
+
+
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
@@ -221,12 +231,19 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews FR
 http://83.164.148.178:8888/play/a00r?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews FR
+https://stream-12.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa5HGKF_cny4hy6TRgB_3N-w)/dm/3/x2j4lj9/d/live-3.m3u8
 
 #EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews EN
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews EN
+https://stream-04.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxu9KgVZ7pqSPYgTafyzPhw)/dm/3/x2j4h4m/s/live-0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews DE
 http://176.10.117.3:5000/play/a02s?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews ES
+https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_74UsfqX0g2fHojGbVJsoA)/dm/3/x2j7hpf/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png" group-title="Deutschland",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
