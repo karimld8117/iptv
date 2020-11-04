@@ -214,6 +214,9 @@ https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_1108_av-p.m3u8
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8
+
+#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT America
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews FR
@@ -265,13 +268,19 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://ballardpartners.com/wp-content/uploads/2018/09/logo-cnbc.png" group-title="Undefined", CNBC 
-http://kuchini.site:8080/iptvhometv/0451/9221
+https://1674331492.rsc.cdn77.org/TFceT25platxQkWC3yn9VQ==,1604514020/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://ballardpartners.com/wp-content/uploads/2018/09/logo-cnbc.png" group-title="Undefined", CNBC USA
+https://1674331492.rsc.cdn77.org/1Z8uNvTlXvP0GRS8fOc-kg==,1604512142/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://ballardpartners.com/wp-content/uploads/2018/09/logo-cnbc.png" group-title="Undefined", CNBC EUROPE
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.blog.bendbroadband.com/wp-content/uploads/sites/3/2016/01/fbn_whiteonblack1.jpg" group-title="News",FOX Business
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://1329918864.rsc.cdn77.org/V_LBcR8_Ik-C7rkd7xL-kA==,1604512148/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CBC News
+https://1359547862.rsc.cdn77.org/L0GSeheoZM_F2J0ax7OO3g==,1604512143/LS-ATL-54548-8/tracks-v3a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -279,12 +288,15 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365e
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
+https://1636691764.rsc.cdn77.org/0ddDIkAL4yhUre8jwc834A==,1604511020/LS-ATL-54548-11/index.m3u8
+
+#EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
 http://exodus1.eu:8080/blue123/blue123/440972?checkedby:hlscat.com
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90878?checkedby:hlscat.com
+https://1636691764.rsc.cdn77.org/0ddDIkAL4yhUre8jwc834A==,1604511020/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
 http://exodus1.eu:8080/blue123/blue123/441395?checkedby:hlscat.com
 
@@ -303,33 +315,27 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 
-#EXT-X-TARGETDURATION:6
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1524759
-#EXT-X-PROGRAM-DATE-TIME:2020-11-04T16:09:33Z
-#EXTINF:6.000,
+#EXTINF:-1 logo="https://logos-download.com/wp-content/uploads/2016/02/CNN-Travel-logo.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN International
+https://1885446501.rsc.cdn77.org/EeQyK-CqhR68alDqihKzjA==,1604589814/LS-ATL-54548-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:6.000, CNN
 2020/11/04/16/09/33-06000.ts
-#EXTINF:6.000,
+#EXTINF:6.000, CNN
 2020/11/04/16/09/39-06000.ts
-#EXTINF:6.000,
+#EXTINF:6.000, CNN
 2020/11/04/16/09/45-06000.ts
-#EXTINF:6.000,
-2020/11/04/16/09/51-06000.ts, CNN
+#EXTINF:6.000 , CNN
+2020/11/04/16/09/51-06000.ts
 
 
-
-#EXT-X-TARGETDURATION:9
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1178665
-#EXT-X-PROGRAM-DATE-TIME:2020-11-04T16:04:13Z
-#EXTINF:8.000,
+#EXTINF:8.000, FOX NEWS
 2020/11/04/16/04/13-08000.ts
-#EXTINF:8.000,
+#EXTINF:8.000,FOX NEWS
 2020/11/04/16/04/21-08000.ts
-#EXTINF:8.033,
+#EXTINF:8.033,FOX NEWS
 2020/11/04/16/04/29-08033.ts
-#EXTINF:8.000,
-2020/11/04/16/04/37-08000.ts, FOX NEWS
+#EXTINF:8.000,FOX NEWS
+2020/11/04/16/04/37-08000.ts, 
 
 
 
@@ -390,6 +396,9 @@ http://kuchini.site:8080/iptvhometv/0451/83891?checkedby:hlscat.com
 http://185.232.53.5:2086/gennaro/gennaro/64112?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
 http://main.volcanictv.com:25461/test1/test1/21543?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",HLN
+https://1161275585.rsc.cdn77.org/X3PoVLgPw3KSUI7oLWLAhA==,1604516312/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",K24 Kenya
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
