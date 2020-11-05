@@ -51,17 +51,35 @@ https://stream-04.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_kA3r5w-TizW68ZJ-v
 #EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS
 https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-3.m3u8
 
-#EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/2560px-RTL_logo.svg.png",RTL
+#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://assets-global.website-files.com/59833d390a24e50001b873d8/5d1e19da0b71316e752aecbe_logo%20France%20Info.png" group-title="", France Info
+https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOI3ExUDvUFR8LhLiyKwxbPfSqt1YHWF9CAjr7BrthubD)/p/dm/3/x4rdeu6/s/live-3.m3u8
+
+#EXTINF:-1 logo="https://www.universfreebox.com/wp-content/uploads/2020/06/EYck6P6X0AAJlXw-1280x720.png" group-title="FR" tvg-name="",B SMART
+https://stream-01.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYVIXiBEcl_4keKJDPCuuJ0)/dm/3/x7tn4fp/d/live-4.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/2560px-RTL_logo.svg.png" group-title="FR" tvg-name="",RTL Radio
 https://stream-11.dc3.dailymotion.com/sec(2t1Em9TKs4IpEwEJvsEGgBSho03DYwoVEopyUTEZLWQ)/dm/3/xl1km0/s/live-3.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Europe1-logo.svg/1280px-Europe1-logo.svg.png" group-title="FR" tvg-name="",Europe1
 https://stream-03.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvAP3mfdRwZij0JQ5hImvf3U)/dm/3/xqjkfz/d/live-3.m3u8
 
+#EXTINF:-1 logo="https://lejournaldugers.fr/uploads/main_imgs/201808072310115a4z-image(postpage).png" group-title="FR" tvg-name="",France Inter
+https://stream-08.dc3.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7seG0IPRpbsz4Zl7ElsG0_-M)/dm/3/x17qw0a/d/live-3.m3u8
+
+#EXTINF:-1 logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/4a/4814/3/c300.png" group-title="FR" tvg-name="",Sud Radio
+https://stream-12.dc3.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS7b7KZspYRgHFhTcbMkO70A)/dm/3/x75yzts/s/live-3.m3u8
+
+#EXTINF:-1 logo="https://i2.wp.com/blog.shanegraphique.com/wp-content/uploads/2016/07/01-5.jpg" group-title="FR" tvg-name="",France Info Radio
+https://stream-05.dc3.dailymotion.com/sec(YiVe-nadY6M0VRc3-u1R4J4Nefd3igKPbjAutwCd43M)/dm/3/x26eox4/s/live-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
 http://178.132.3.162:88/france4/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="Français",Cherie25
-http://82.64.13.207:2002/bysid/2563
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Français",TEVA
 http://178.132.3.162:88/Teva/index.m3u8?token=test
@@ -174,8 +192,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 #EXTINF:-1 logo="https://static4.abc.es/media/cultura/2019/09/25/radio-nacional-espania-kXQH--1200x630@abc.jpg" group-title="ES" tvg-name="24h", Radio Nacional Espana
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
-http://kuchini.site:8080/iptvhometv/0451/28853?checkedby:hlscat.com
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
@@ -191,8 +208,8 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" tvg-url="" group-title="",TV5 Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://assets-global.website-files.com/59833d390a24e50001b873d8/5d1e19da0b71316e752aecbe_logo%20France%20Info.png" group-title="Undefined", France Info
-https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://assets-global.website-files.com/59833d390a24e50001b873d8/5d1e19da0b71316e752aecbe_logo%20France%20Info.png" group-title="", France Info
+https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOI3ExUDvUFR8LhLiyKwxbPfSqt1YHWF9CAjr7BrthubD)/p/dm/3/x4rdeu6/s/live-3.m3u8
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/48/3c/fb/483cfb52ca6497d59036a5649b52ff31.png" group-title="Int. Europa" tvg-name="BFM TV",BFM TV
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
@@ -205,7 +222,7 @@ https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
+
 
 #EXTINF:0 tvg-country="FR" logo="https://www.energiency.com/wp-content/uploads/2018/09/Logo-BFM-Business-600-400.jpg" group-title="Business",BFM BUSINESS 
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8
@@ -265,8 +282,6 @@ http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-country="FR" logo="https://www.livenewsmag.com/wp-content/uploads/2016/10/ICi-RDI-News-TV-2.jpg" group-title="INFOS",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:0 tvg-country="FR" logo="https://casketoutlet.ca/img/cms/Nouveau-TVA.png" group-title="INFOS",LCN 
-http://kuchini.site:8080/iptvhometv/0451/173116?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://static.helpjuice.com/assets/marketing/al-jazeera-logo-2b4e21e946943ed913a726d1731d1900447555736ecab4b9e4e60fd48e1889f4.jpg" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
