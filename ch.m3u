@@ -19,7 +19,7 @@ http://178.132.3.162:88/france5/index.m3u8?token=test
 http://178.132.3.162:88/M6/index.m3u8?token=test
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.pinimg.com/originals/3c/e6/54/3ce6543cf583480fa6d0e233384f336e.jpg" group-title="Undefined", ARTE 
-http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/cThInij.png" tvg-country="FR" tvg-url="" group-title="",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
@@ -125,17 +125,16 @@ https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1200px-TV5_%28logo%29.svg.png" group-title="Entertainment", TV5 Quebec
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93929?checkedby:hlscat.com
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93929
 
 EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="" group-title="Entertainment", RADIO CANADA 
-http://ky-iptv.com:25461/live/oscar/1234/182206.m3u8?checkedby:hlscat.com
+http://ky-iptv.com:25461/live/oscar/1234/182206.m3u8
 
 EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV MONTREAL CA
-http://main.volcanictv.com:25461/test1/test1/21202?checkedby:hlscat.com
+http://main.volcanictv.com:25461/test1/test1/21202
 
 #EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV 2 CA
-http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8?checkedby:hlscat.com
-
+http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 ES
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
@@ -355,6 +354,9 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/a-rare-voice-for-balance-goes-silent-at-fox-news/@@images/rectangular_image/page-header?v=1571186920.39" group-title="News",FOX NEWS CHANNEL 
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+http://tv2iptv.com:8080/ammar/ammar/37520
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
 https://1886592016.rsc.cdn77.org/8Roa7g1MbwArp7g11aoWZw==,1604572214/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
