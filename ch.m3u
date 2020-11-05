@@ -87,6 +87,9 @@ https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Français",TEVA
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZAGR9JAQ4aoG7YBc9A4omJz-HZSOh0M1aqQ&usqp=CAU" group-title="Français",Rouge TV
+https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationcanalj/images/header/logo-canalj.png" group-title="Français",Canal J
 http://178.132.3.162:88/CanalJ/video.m3u8?token=test
 
