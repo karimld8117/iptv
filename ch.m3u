@@ -241,8 +241,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w88036
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_1108_av-p.m3u8
 
 
-#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT France
-http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8
@@ -250,6 +249,8 @@ http://rt-uk.secure.footprint.net/1106.m3u8
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT America
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
+#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT France
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews FR
 https://stream-12.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa5HGKF_cny4hy6TRgB_3N-w)/dm/3/x2j4lj9/d/live-3.m3u8
