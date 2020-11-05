@@ -57,6 +57,9 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://assets-global.website-files.com/59833d390a24e50001b873d8/5d1e19da0b71316e752aecbe_logo%20France%20Info.png" group-title="", France Info
 https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOI3ExUDvUFR8LhLiyKwxbPfSqt1YHWF9CAjr7BrthubD)/p/dm/3/x4rdeu6/s/live-3.m3u8
 
+#EXTINF:0 tvg-country="FR" logo="https://www.energiency.com/wp-content/uploads/2018/09/Logo-BFM-Business-600-400.jpg" group-title="Business",BFM BUSINESS 
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8
+
 #EXTINF:-1 logo="https://www.universfreebox.com/wp-content/uploads/2020/06/EYck6P6X0AAJlXw-1280x720.png" group-title="FR" tvg-name="",B SMART
 https://stream-01.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYVIXiBEcl_4keKJDPCuuJ0)/dm/3/x7tn4fp/d/live-4.m3u8
 
@@ -241,15 +244,13 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w88036
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_1108_av-p.m3u8
 
 
-
-
-#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT UK
+#EXTINF:0 tvg-country="FR" logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Business",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8
 
-#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT America
+#EXTINF:0 tvg-country="FR" logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Business",RT America
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Business",RT France
+#EXTINF:0 tvg-country="FR" logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Business",RT France
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="News", EuroNews FR
@@ -320,18 +321,17 @@ https://1329918864.rsc.cdn77.org/V_LBcR8_Ik-C7rkd7xL-kA==,1604512148/ls-54548-1/
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
-https://1636691764.rsc.cdn77.org/0ddDIkAL4yhUre8jwc834A==,1604511020/LS-ATL-54548-11/index.m3u8
+
 
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 #EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
 http://exodus1.eu:8080/blue123/blue123/440972?checkedby:hlscat.com
-#EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
-https://1636691764.rsc.cdn77.org/0ddDIkAL4yhUre8jwc834A==,1604511020/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
-http://exodus1.eu:8080/blue123/blue123/441395?checkedby:hlscat.com
+
+
+
+
 
 
 
@@ -348,8 +348,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 
-#EXTINF:-1 logo="https://logos-download.com/wp-content/uploads/2016/02/CNN-Travel-logo.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN International
-https://1885446501.rsc.cdn77.org/EeQyK-CqhR68alDqihKzjA==,1604589814/LS-ATL-54548-16/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -357,7 +356,9 @@ https://1885446501.rsc.cdn77.org/EeQyK-CqhR68alDqihKzjA==,1604589814/LS-ATL-5454
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
-https://1886592016.rsc.cdn77.org/JNRt_dEUD-iavnl2MxcaLA==,1604513857/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+https://1886592016.rsc.cdn77.org/8Roa7g1MbwArp7g11aoWZw==,1604572214/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+https://iguana.cdn.livenewschat.eu/hls/twoon_live/index.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.squarespace-cdn.com/content/v1/54cc5e5de4b017d38e3c44dc/1518413227676-BWW7Y8XX1M7IV6JT5PYC/ke17ZwdGBToddI8pDm48kGfmYKyt9ML1mzDpgHEh6n1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQqPObjVsL8yVeFHuMgKgDEv1EZAF8afIoWXRqbaTkTYQIe8-Hn_ObL36MmNzs1Z4/nbc-news-logo.jpg" group-title="Undefined",NBC News Now,US | NBC NEWS NOW
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
@@ -888,3 +889,8 @@ http://51.52.156.22:8888/http/008
 #EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 
+#EXTINF:-1 logo="https://img2.freepng.fr/20180326/xfq/kisspng-bbc-news-logo-news-5ab99dfd39fd55.4886329015221140452375.jpg" group-title="UK",BBC News UK 
+http://exodus1.eu:8080/blue123/blue123/441395?checkedby:hlscat.com
+
+#EXTINF:-1 logo="https://logos-download.com/wp-content/uploads/2016/02/CNN-Travel-logo.png" group-title="Int. Amรฉrica" tvg-name="CNN USA",CNN International
+https://1885446501.rsc.cdn77.org/EeQyK-CqhR68alDqihKzjA==,1604589814/LS-ATL-54548-16/tracks-v1a1/mono.m3u8
