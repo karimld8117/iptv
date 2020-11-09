@@ -46,10 +46,10 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/48/3c/fb/483cfb52ca6497d59036a5649b52ff31.png" group-title="Int. Europa" tvg-name="BFM TV",BFM TV
-https://stream-04.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_kA3r5w-TizW68ZJ-v4K71g)/dm/3/xgz4t1/d/live-3.m3u8
+https://stream-04.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_kA3r5w-TizW68ZJ-v4K71g)/dm/3/xgz4t1/d/live-4.m3u8
 
 #EXTINF:-1 logo="https://www.tarifspresse.com/sites/default/files/logos_titres/imported//00632.png" group-title="FR" tvg-name="CNEWS",CNEWS
-https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-3.m3u8
+https://stream-07.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXEUsFEdfeeqDF_wtIW6orE)/dm/3/x3b68jn/d/live-4.m3u8
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
@@ -64,7 +64,8 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m
 https://stream-01.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYVIXiBEcl_4keKJDPCuuJ0)/dm/3/x7tn4fp/d/live-4.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/2560px-RTL_logo.svg.png" group-title="FR" tvg-name="",RTL Radio
-https://stream-11.dc3.dailymotion.com/sec(2t1Em9TKs4IpEwEJvsEGgBSho03DYwoVEopyUTEZLWQ)/dm/3/xl1km0/s/live-3.m3u8
+https://stream-10.dc3.dailymotion.com/sec(2t1Em9TKs4IpEwEJvsEGgIkN9l6rfPPlBvpj_IaPCk0)/dm/3/xl1km0/s/live-3.m3u8
+
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Europe1-logo.svg/1280px-Europe1-logo.svg.png" group-title="FR" tvg-name="",Europe1
 https://stream-03.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvAP3mfdRwZij0JQ5hImvf3U)/dm/3/xqjkfz/d/live-3.m3u8
@@ -202,7 +203,8 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_a
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
 http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNFQXWZExN3ue2ffL5C3CIUaF_d0i85YxCRw&usqp=CAU" group-title="ES" tvg-name="FORO TV",FORO TV MEXICO
+https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/db1af11b-16a2-4b33-9953-fbc9d7161d2f:BRU/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="ES" tvg-name="24h", TeleSUR ES
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
@@ -283,6 +285,9 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",FRANCE 24 France
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",FRANCE 24 Espanol
+http://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
+
 #EXTINF:0 tvg-country="FR" logo="https://www.livenewsmag.com/wp-content/uploads/2016/10/ICi-RDI-News-TV-2.jpg" group-title="INFOS",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
@@ -356,6 +361,8 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/a-rare-voice-for-balance-goes-silent-at-fox-news/@@images/rectangular_image/page-header?v=1571186920.39" group-title="News",FOX NEWS CHANNEL 
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/a-rare-voice-for-balance-goes-silent-at-fox-news/@@images/rectangular_image/page-header?v=1571186920.39" group-title="News",FOX NEWS CHANNEL 
+https://120.123newslive.com/app/foxnews.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
@@ -364,6 +371,8 @@ http://tv2iptv.com:8080/ammar/ammar/37520
 https://1886592016.rsc.cdn77.org/8Roa7g1MbwArp7g11aoWZw==,1604572214/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
 https://iguana.cdn.livenewschat.eu/hls/twoon_live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/03/msnbc-logo.png" group-title="News", MSNBC
+https://120.123newslive.com/app/msnbc.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.squarespace-cdn.com/content/v1/54cc5e5de4b017d38e3c44dc/1518413227676-BWW7Y8XX1M7IV6JT5PYC/ke17ZwdGBToddI8pDm48kGfmYKyt9ML1mzDpgHEh6n1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQqPObjVsL8yVeFHuMgKgDEv1EZAF8afIoWXRqbaTkTYQIe8-Hn_ObL36MmNzs1Z4/nbc-news-logo.jpg" group-title="Undefined",NBC News Now,US | NBC NEWS NOW
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
@@ -382,6 +391,8 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/90336
 #EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC Chicago
 http://185.232.53.5:2086/arellano/kgtL965n2Y/90341
 
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC 4 NY
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 
 #EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC USA
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
@@ -902,3 +913,6 @@ https://1885446501.rsc.cdn77.org/EeQyK-CqhR68alDqihKzjA==,1604589814/LS-ATL-5454
 
 #EXTINF:-1 logo="" group-title=" tvg-name="BBC1",BBC1
 http://176.10.117.3%3a5000/play/a035
+
+#EXTINF:-1 logo="" group-title=" tvg-name="BBC1",Tv2 Denmark
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
