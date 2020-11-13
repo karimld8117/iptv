@@ -51,6 +51,12 @@ https://stream-04.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_kA3r5w-TizW68ZJ-v
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FR" tvg-name="CNEWS",CNEWS
 https://stream-07.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXEUsFEdfeeqDF_wtIW6orE)/dm/3/x3b68jn/d/live-4.m3u8
 
+
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 , CNEWS
+https://stream-04.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPB-UI7el7VFcRGivfUk5UdfWgssgZUxhAKHaJFioC-P)/p/dm/3/x5idxxp/d/live-4.m3u8
+
+
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8 
 
@@ -64,20 +70,19 @@ https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m
 https://stream-01.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYVIXiBEcl_4keKJDPCuuJ0)/dm/3/x7tn4fp/d/live-4.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/2560px-RTL_logo.svg.png" group-title="FR" tvg-name="",RTL Radio
-https://stream-10.dc3.dailymotion.com/sec(2t1Em9TKs4IpEwEJvsEGgIkN9l6rfPPlBvpj_IaPCk0)/dm/3/xl1km0/s/live-3.m3u8
-
+https://stream-11.ix7.dailymotion.com/sec(2t1Em9TKs4IpEwEJvsEGgCMiYh4W6RDVW_3jGa_ScWw)/dm/3/xl1km0/s/live-3.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Europe1-logo.svg/1280px-Europe1-logo.svg.png" group-title="FR" tvg-name="",Europe1
-https://stream-03.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvAP3mfdRwZij0JQ5hImvf3U)/dm/3/xqjkfz/d/live-3.m3u8
+https://stream-12.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvF4WiyKD1in7yr77H-95XDQ)/dm/3/xqjkfz/d/live-4.m3u8
 
 #EXTINF:-1 logo="https://lejournaldugers.fr/uploads/main_imgs/201808072310115a4z-image(postpage).png" group-title="FR" tvg-name="",France Inter
-https://stream-08.dc3.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7seG0IPRpbsz4Zl7ElsG0_-M)/dm/3/x17qw0a/d/live-3.m3u8
+https://stream-01.dc3.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7sWcBlkthvxz4UwMxbwEeWdU)/dm/3/x17qw0a/d/live-3.m3u8
 
 #EXTINF:-1 logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/4a/4814/3/c300.png" group-title="FR" tvg-name="",Sud Radio
-https://stream-12.dc3.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS7b7KZspYRgHFhTcbMkO70A)/dm/3/x75yzts/s/live-3.m3u8
+https://stream-02.ix7.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS3khQ8W65PVNZma1RQLctME)/dm/3/x75yzts/s/live-3.m3u8
 
 #EXTINF:-1 logo="https://i2.wp.com/blog.shanegraphique.com/wp-content/uploads/2016/07/01-5.jpg" group-title="FR" tvg-name="",France Info Radio
-https://stream-05.dc3.dailymotion.com/sec(YiVe-nadY6M0VRc3-u1R4J4Nefd3igKPbjAutwCd43M)/dm/3/x26eox4/s/live-3.m3u8
+https://stream-02.ix7.dailymotion.com/sec(YiVe-nadY6M0VRc3-u1R4EiIZC2nTmY3cZUUGbv1Zik)/dm/3/x26eox4/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.graphiline.com/graphiline/27533/logo-sign-charte-graphique-6.jpg" group-title="Français",France 4
 http://178.132.3.162:88/france4/index.m3u8?token=test
@@ -111,6 +116,8 @@ https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/La%20Une.png" tvg-country="BE" tvg-url="" group-title="",RTBF La une
 http://rtbf.l3.freecaster.net/live/rtbf/geo/open/25e004693ce49d226712769ae6a39d4f0782500f/laune-audio_1=128000-video=1152000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/La%20Une.png" tvg-country="BE" tvg-url="" group-title="",RTBF La une
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31990?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/La_deux_HD.png" tvg-country="BE" tvg-url="" group-title="",RTBF La deux
 http://rtbf.l3.freecaster.net/live/rtbf/geo/open/ce1a55335a3ded14921b12cd8cac1a6dd01bdc55/ladeux-audio_1=128000-video=1152000.m3u8
@@ -200,11 +207,9 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_a
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/4019
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ES" tvg-name="24h",24h Noticias ES
 http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNFQXWZExN3ue2ffL5C3CIUaF_d0i85YxCRw&usqp=CAU" group-title="ES" tvg-name="FORO TV",FORO TV MEXICO
-https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/db1af11b-16a2-4b33-9953-fbc9d7161d2f:BRU/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="ES" tvg-name="24h", TeleSUR ES
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
@@ -225,6 +230,9 @@ https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/87
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FR" tvg-name="CNEWS",CNEWS
 https://stream-06.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-3.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FR" tvg-name="CNEWS",CNEWS
+https://stream-04.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPB-UI7el7VFcRGivfUk5UdfWgssgZUxhAKHaJFioC-P)/p/dm/3/x5idxxp/d/live-4.m3u8
 
 
 #EXTINF:0 tvg-country="FR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="INFOS",LCI
@@ -258,11 +266,11 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="News", EuroNews FR
-https://stream-12.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa5HGKF_cny4hy6TRgB_3N-w)/dm/3/x2j4lj9/d/live-3.m3u8
+https://stream-02.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCayZrER0ZVTKK0EAYoJaq0Oc)/dm/3/x2j4lj9/d/live-3.m3u8
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="UK" tvg-name="News",EuroNews EN
-https://stream-04.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxu9KgVZ7pqSPYgTafyzPhw)/dm/3/x2j4h4m/s/live-3.m3u8
+https://stream-04.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCawMUhB3fYjSZ-3Qp4uOVIjk)/dm/3/x2j4h4m/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="News", EuroNews DE
 http://176.10.117.3:5000/play/a02s?checkedby:hlscat.com
@@ -310,17 +318,15 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 #EXTINF:-1 logo="https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-symbol.jpg" group-title="Int. Amรฉrica" tvg-name="Bloomberg EU USA",Bloomberg TV EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Undefined", CNBC 
-https://1674331492.rsc.cdn77.org/TFceT25platxQkWC3yn9VQ==,1604514020/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Undefined", CNBC USA
-https://1674331492.rsc.cdn77.org/1Z8uNvTlXvP0GRS8fOc-kg==,1604512142/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Undefined", CNBC EUROPE
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.blog.bendbroadband.com/wp-content/uploads/sites/3/2016/01/fbn_whiteonblack1.jpg" group-title="News",FOX Business
-https://1329918864.rsc.cdn77.org/V_LBcR8_Ik-C7rkd7xL-kA==,1604512148/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Undefined", CNBC
+http://185.232.53.5:2086/arellano/kgtL965n2Y/64142?checkedby:hlscat.com
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -336,8 +342,8 @@ https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png" group-title="UK",BBC News UK 
 http://exodus1.eu:8080/blue123/blue123/440972?checkedby:hlscat.com
 
-
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ITV_logo.svg/1200px-ITV_logo.svg.png" group-title="UK",ITV1 UK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/131692?checkedby:hlscat.com
 
 
 
@@ -364,6 +370,13 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
 https://120.123newslive.com/app/foxnews.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53850?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
+http://tv.nousiptv.com:25462/live/rod/1234/29350.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="News",FOX NEWS CHANNEL 
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/124101?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media3.s-nbcnews.com/i/assets/msnbc-color-square-dvt.png" group-title="News", MSNBC
 http://tv2iptv.com:8080/ammar/ammar/37520
@@ -384,8 +397,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-#EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC USA
-http://tv2iptv.com:8080/ammar/ammar/37842
+
 #EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC NY
 http://185.232.53.5:2086/arellano/kgtL965n2Y/90336
 #EXTINF:-1 logo="https://logovtor.com/wp-content/uploads/2020/04/abc-news-logo-vector.png" group-title="Int. Amรฉrica" tvg-name="ABC News USA",ABC Chicago
