@@ -142,6 +142,8 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" logo="https://www.mediaspecs.be/wp-content/uploads/rtl_tvi.gif" tvg-country="BE" tvg-url="" group-title="Belgique",RTL-TVI BE
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
+#EXTINF:-1 tvg-name="ICI Télé HD" tvg-id="ICI Télé HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/300px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI Télé HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 
 #EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Canada",NOOVO Quebec (V-Télé)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
