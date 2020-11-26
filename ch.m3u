@@ -224,6 +224,9 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="Espagne" tvg-name="24h", TeleSUR EN
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png" group-title="Brazilië",BR | CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" tvg-url="" group-title="Francais",TV5 Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
