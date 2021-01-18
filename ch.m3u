@@ -161,8 +161,14 @@ http://main.volcanictv.com:25461/test1/test1/21202
 #EXTINF:0 tvg-name="ICI tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1200px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="Entertainment", ICI TV 2 CA
 http://ky-iptv.com:25461/live/oscar/1234/182231.m3u8
 
+#EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Espagne" tvg-name="Antena3",Antena3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+
 #EXTINF:-1 tvg-id="La1.TV" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Espagne" tvg-name="La 1",La 1 ES
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" logo="" group-title="Espagne" tvg-name="24h",24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
 
 #EXTINF:-1 tvg-id="La2.TV" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Espagne" tvg-name="La 2",La 2 ES
@@ -9055,3 +9061,62 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 
 #EXTINF:-1 tvg-logo="s://sck.pm/7fc" group-title="INSPIR@TIONLINKS" , ● TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?isnpLk=10&rebase=on
+
+#EXTINF:-1,CNN http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,Bloomberg http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:-1,BBC News http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,ABC News http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,Sky News UK http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,BBC News UK http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,I24 News (US) http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1,ABC News (US) http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,Al Jazeera News (US) http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:-1,CNBC UK http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on timeout=10
+
+#EXTINF:-1,RT America UK http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
+
+#EXTINF:-1 tvg-logo="FOX NETWORK.png,FOX NETWORK rtmp://89.248.172.145:1935/edge/definst/q49uyvij145wcky
+
+#EXTINF:-1 tvg-logo="ACTION MOVIES.png,ACTION MOVIES rtmp://89.248.172.145:1935/edge/definst/8t7yzaodzxwqguu
+
+#EXTINF:-1 tvg-logo="HBO.png,HBO rtmp://89.248.172.145:1935/edge/definst/qzbbu26gcvjxksz
+
+#EXTINF:-1 tvg-logo="HBO COMEDY.png,HBO COMEDY rtmp://89.248.172.145:1935/edge/definst/a1wn1j3ra1w0cv0
+
+#EXTINF:-1 tvg-logo="Sky Comedy.png,Sky Comedy http://176.31.182.148:8080/sky/comedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="Fox.png,Fox 1 (US) http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FX Movie Channel.png,FOX MOVIES HD (US) http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Fox Action.png,Fox Action (US) http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX CINEMA.png,FOX CINEMA (US) http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Fox Premiers.png",FOX MOVIES HD (US) http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Fox Family.png,Fox Family (US) http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX CLASSICS.png,FOX CLASSICS (US) http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FILM ZONE HD.png,FILM ZONE HD (US) http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1, [COLOR aqua] International Movie's[/COLOR] https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1 tvg-logo="Cinestar.png,Cinestar http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_TV)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Cinestar Action.png,Cinestar Action http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Action_and_Thriller)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="CineStar PREMIERE 1.png,Cinestar Premiere http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_1)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Cinestar Premiere 2.png,Cinestar Premiere 2 http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_2)/Stream(03)/index.m3u8
+
