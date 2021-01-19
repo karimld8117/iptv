@@ -1504,3 +1504,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 #EXTINF:-1 tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="PLUTO USA",Yo! MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 ,BBC News HD
+rtp://239.186.68.160:10000
+#EXTINF:-1 ,BBC One
+rtp://239.186.64.51:10000
+#EXTINF:-1 ,BBC One HD
+rtp://239.186.68.43:10000
