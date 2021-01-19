@@ -279,18 +279,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:0 tvg-country="FR" logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="News",RT France
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews AR
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ar_vidan750_rtp.sdp
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/it_vidan750_rtp.sdp
-#EXTINF:-1 logo="https://lecercledeseconomistes.fr/wp-content/uploads/2019/03/euronews-logo.jpg" group-title="UK" tvg-name="News",EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 group-title="Francais", Euronews EN
@@ -343,26 +332,18 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Business", CNBC EUROPE
-https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
+#EXTINF:-1 logo="" group-title="News" tvg-name="UK",Euronews FR
+https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0J8tNKlG2R1IJ_MtZeVTxg)/dm/3/x2j4lj9/d/live-3.m3u8
 
+#EXTINF:-1 logo="" group-title="News" tvg-name="UK",Euronews EN
+https://stream-01.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8fw9xYoi_YPoemWe_INLTM)/dm/3/x2j4h4m/s/live-3.m3u8
 
+#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland 
+http://51.52.156.22:8888/http/001
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="News",BBC World News
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-
-
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png" group-title="UK",BBC News UK 
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/1280px-BBC_One_HD.svg.png" group-title="UK",BBC 1 Scotland,UK | BBC 1 SCOTLAND
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News 
+http://51.52.156.22:8888/http/004
 
 
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV1 UK
